@@ -1,0 +1,4 @@
+addi	x10,x0,5
+ECALL
+addi	x10,x0,1
+ECALL
